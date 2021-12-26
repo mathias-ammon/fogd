@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Mathias Ammon",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mathias.ammon@tuhh.de",
+  "friendly_name": "FoGD",
+  "github_user": "tZ3ma",
+  "license": "MIT",
+  "package_name": "fogd",
+  "project_name": "fogd",
+  "version": "0.0.0"
+}
